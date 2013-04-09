@@ -1,0 +1,30 @@
+<idea-plugin version="2">
+  <name>BoxSyncPlugin</name>
+  <description>Victor Spivak plugin for Box VM files synchronization.</description>
+  <version>1.0</version>
+  <vendor>Box Inc.</vendor>
+
+  <!-- please see http://confluence.jetbrains.net/display/IDEADEV/Build+Number+Ranges for description -->
+  <idea-version since-build="117.963"/>
+
+  <application-components>
+      <component>
+          <implementation-class>autorsync.RsyncAppComponent</implementation-class>
+      </component>
+  </application-components>
+
+  <project-components>
+
+  </project-components>
+
+  <actions>
+      <action id="ToggleAutoRsyncPlugin" class="autorsync.TogglePlugin" text="Disable Box Files synchronization"
+              description="Toggle Box VM Files Synchronization setting">
+          <add-to-group group-id="FileMenu" anchor="after"  relative-to-action="Synchronize"/>
+      </action>
+  </actions>
+
+  <extensions defaultExtensionNs="com.intellij">
+
+  </extensions>
+</idea-plugin>
