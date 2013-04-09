@@ -16,8 +16,8 @@ public class RsyncAppComponent implements ApplicationComponent
 
 	public String getComponentName()
 	{
-        return "BoxRsyncPluginComponent";
-    }
+		return "BoxRsyncPluginComponent";
+	}
 
 	public void disposeComponent()
 	{

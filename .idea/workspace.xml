@@ -57,72 +57,59 @@
     <favorites_list name="IntellijRSync" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
-      <split-first>
-        <leaf>
-          <file leaf-file-name="RsyncAppComponent.java" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/autorsync/RsyncAppComponent.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="15" column="0" selection-start="494" selection-end="494" vertical-scroll-proportion="0.0">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="State.java" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/autorsync/State.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="11" column="0" selection-start="310" selection-end="310" vertical-scroll-proportion="0.0">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="Settings.java" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/autorsync/Settings.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="13" column="5" selection-start="460" selection-end="460" vertical-scroll-proportion="0.0">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="RsyncFrameStateListener.java" pinned="false" current="true" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/autorsync/RsyncFrameStateListener.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="11" column="1" selection-start="403" selection-end="403" vertical-scroll-proportion="0.1211287">
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file leaf-file-name="RsyncProjectManagerListener.java" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/autorsync/RsyncProjectManagerListener.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="20" column="0" selection-start="708" selection-end="708" vertical-scroll-proportion="0.0">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="RsyncToolWindowManagerListener.java" pinned="false" current="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/autorsync/RsyncToolWindowManagerListener.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="31" column="54" selection-start="1132" selection-end="1132" vertical-scroll-proportion="0.2973159">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf>
+      <file leaf-file-name="RsyncToolWindowManagerListener.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/autorsync/RsyncToolWindowManagerListener.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="40" column="13" selection-start="1385" selection-end="1385" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RsyncFrameStateListener.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/autorsync/RsyncFrameStateListener.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="70" column="0" selection-start="1933" selection-end="1933" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#998#1099#0" expanded="true" />
+                <element signature="e#1093#1094#0" expanded="true" />
+                <element signature="e#1561#1930#0" expanded="true" />
+                <element signature="e#1925#1926#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="State.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/autorsync/State.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="1" selection-start="211" selection-end="211" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RsyncAppComponent.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/autorsync/RsyncAppComponent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="5" selection-start="570" selection-end="570" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RsyncProjectManagerListener.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/autorsync/RsyncProjectManagerListener.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="80" column="0" selection-start="2260" selection-end="2260" vertical-scroll-proportion="1.2934662">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -135,22 +122,23 @@
         <option value="$PROJECT_DIR$/src/autorsync/PersistedSettings.java" />
         <option value="$PROJECT_DIR$/src/autorsync/FrameStateListener.java" />
         <option value="$PROJECT_DIR$/src/AppComponent.java" />
-        <option value="$PROJECT_DIR$/src/autorsync/RsyncAppComponent.java" />
         <option value="$PROJECT_DIR$/src/TogglePlugin.java" />
         <option value="$PROJECT_DIR$/META-INF/plugin.xml" />
+        <option value="$PROJECT_DIR$/src/autorsync/RsyncToolWindowManagerListener.java" />
         <option value="$PROJECT_DIR$/src/autorsync/Settings.java" />
         <option value="$PROJECT_DIR$/src/autorsync/State.java" />
-        <option value="$PROJECT_DIR$/src/autorsync/RsyncProjectManagerListener.java" />
-        <option value="$PROJECT_DIR$/src/autorsync/RsyncToolWindowManagerListener.java" />
+        <option value="$PROJECT_DIR$/src/autorsync/TogglePlugin.java" />
+        <option value="$PROJECT_DIR$/src/autorsync/RsyncAppComponent.java" />
         <option value="$PROJECT_DIR$/src/autorsync/RsyncFrameStateListener.java" />
+        <option value="$PROJECT_DIR$/src/autorsync/RsyncProjectManagerListener.java" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
     <option name="y" value="22" />
-    <option name="width" value="2560" />
-    <option name="height" value="1574" />
+    <option name="width" value="1680" />
+    <option name="height" value="1024" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -192,7 +180,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -245,6 +232,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -252,13 +240,13 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="recentsLimit" value="5" />
     <property name="options.lastSelected" value="preferences.externalTools" />
+    <property name="recentsLimit" value="5" />
     <property name="FullScreen" value="false" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="dynamic.classpath" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="dynamic.classpath" value="false" />
   </component>
   <component name="PublishConfig">
     <servers>
@@ -319,15 +307,16 @@
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="2560" height="1574" extended-state="6" />
+    <frame x="0" y="22" width="1680" height="1024" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.32903227" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.121320605" sideWeight="0.3635135" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21909425" sideWeight="0.3635135" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.6364865" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="true" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.32903227" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -336,7 +325,6 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.32903227" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.32837838" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -377,7 +365,7 @@
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
     <option name="CREATE_PATCH_EXPAND_DETAILS_DEFAULT" value="true" />
     <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
-    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
     <option name="LAST_COMMIT_MESSAGE" />
@@ -428,11 +416,6 @@
         <state line="18" column="9" selection-start="669" selection-end="669" vertical-scroll-proportion="0.305618" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/autorsync/TogglePlugin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="23" selection-start="426" selection-end="426" vertical-scroll-proportion="0.24806201" />
-      </provider>
-    </entry>
     <entry file="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar!/java/util/concurrent/atomic/AtomicBoolean.class">
       <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="11" selection-start="424" selection-end="424" vertical-scroll-proportion="0.17718716" />
@@ -443,39 +426,58 @@
         <state line="5" column="17" selection-start="168" selection-end="168" vertical-scroll-proportion="0.0440468" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/autorsync/RsyncAppComponent.java">
+    <entry file="file://$PROJECT_DIR$/src/autorsync/RsyncToolWindowManagerListener.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="0" selection-start="494" selection-end="494" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/autorsync/State.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="310" selection-end="310" vertical-scroll-proportion="0.0" />
+        <state line="40" column="13" selection-start="1385" selection-end="1385" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/autorsync/Settings.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="5" selection-start="460" selection-end="460" vertical-scroll-proportion="0.0" />
+        <state line="21" column="13" selection-start="782" selection-end="782" vertical-scroll-proportion="0.35437432">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/autorsync/RsyncProjectManagerListener.java">
+    <entry file="file://$PROJECT_DIR$/src/autorsync/TogglePlugin.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="0" selection-start="708" selection-end="708" vertical-scroll-proportion="0.0" />
+        <state line="23" column="5" selection-start="682" selection-end="682" vertical-scroll-proportion="0.35437432">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/autorsync/RsyncToolWindowManagerListener.java">
+    <entry file="file://$PROJECT_DIR$/src/autorsync/State.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="54" selection-start="1132" selection-end="1132" vertical-scroll-proportion="0.2973159">
+        <state line="7" column="1" selection-start="211" selection-end="211" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/autorsync/RsyncAppComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="5" selection-start="570" selection-end="570" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/autorsync/RsyncFrameStateListener.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="1" selection-start="403" selection-end="403" vertical-scroll-proportion="0.1211287">
+        <state line="70" column="0" selection-start="1933" selection-end="1933" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#998#1099#0" expanded="true" />
+            <element signature="e#1093#1094#0" expanded="true" />
+            <element signature="e#1561#1930#0" expanded="true" />
+            <element signature="e#1925#1926#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/autorsync/RsyncProjectManagerListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="80" column="0" selection-start="2260" selection-end="2260" vertical-scroll-proportion="1.2934662">
+          <folding />
         </state>
       </provider>
     </entry>

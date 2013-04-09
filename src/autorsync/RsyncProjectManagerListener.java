@@ -51,33 +51,33 @@ public class RsyncProjectManagerListener implements ProjectManagerListener
 	}
 
 	/**
-	 * Build a frame state listener
-	 *
-	 * @param project
-	 * @return FrameStateListener
-	 */
+	* Build a frame state listener
+	*
+	* @param project
+	* @return FrameStateListener
+	*/
 	private FrameStateListener getFrameStateListener(Project project)
 	{
 		return new RsyncFrameStateListener(this.getRsyncTool(), project);
 	}
 
 	/**
-	 * Get the rsync tool that is configured in Intellij. If the developer hasn't configured it yet,
-	 * then will return null.
-	 *
-	 * @return Tool|null
-	 */
+	* Get the rsync tool that is configured in Intellij. If the developer hasn't configured it yet,
+	* then will return null.
+	*
+	* @return Tool|null
+	*/
 	private Tool getRsyncTool()
 	{
 		if (this._rsyncTool == null)
 		{
 			for (Tool tool : ToolManager.getInstance().getTools())
 			{
-	            if (tool.getName().equals(Settings.RSYNC_TOOL_NAME))
-	            {
-		            this._rsyncTool = tool;
-		            break;
-	            }
+				if (tool.getName().equals(Settings.RSYNC_TOOL_NAME))
+				{
+					this._rsyncTool = tool;
+					break;
+				}
 			}
 		}
 
