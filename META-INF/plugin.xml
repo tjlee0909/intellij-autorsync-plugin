@@ -1,6 +1,6 @@
 <idea-plugin version="2">
   <name>BoxSyncPlugin</name>
-  <description>Victor Spivak plugin for Box VM files synchronization.</description>
+  <description>Eng-service's plugin for Box VM files synchronization.</description>
   <version>1.0</version>
   <vendor>Box Inc.</vendor>
 
